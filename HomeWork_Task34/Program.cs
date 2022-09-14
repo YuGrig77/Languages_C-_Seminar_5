@@ -11,11 +11,24 @@ int[] GetArray(int length, int minValue, int maxValue)
     for (int i = 0; i < length; i++)
     {
         tripple[i] = new Random().Next(minValue, maxValue);
-        Console.Write($"{tripple[i]} ");
+        //Console.Write($"{tripple[i]} ");
     }
     return tripple;
 }
-int[] array = GetArray(5, 100, 1000);
+
+void PrintArray(int[] resPA)
+{
+    int length = resPA.Length;
+    Console.Write("[ ");
+    for (int i = 0; i < length; i++)
+    {
+        Console.Write((i != length - 1 ? $"{resPA[i]}, " : $"{resPA[i]} ] "));
+        // if (i != length-1)
+        // Console.Write($"{resPA[i]}, ");
+        // else
+        // Console.Write($"{resPA[i]} ] ");
+    }
+}
 
 int Compare(int[] array)
 {
@@ -29,4 +42,8 @@ int Compare(int[] array)
     }
     return count;
 }
+
+int[] array = GetArray(5, 100, 1000);
+PrintArray(array);
+
 Console.Write($"=> {Compare(array)}");
