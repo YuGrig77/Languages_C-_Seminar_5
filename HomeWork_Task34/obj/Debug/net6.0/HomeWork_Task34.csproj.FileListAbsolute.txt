@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\bin\Debug\net6.0\HomeWork_Task34.exe
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\bin\Debug\net6.0\HomeWork_Task34.deps.json
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\bin\Debug\net6.0\HomeWork_Task34.runtimeconfig.json
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\bin\Debug\net6.0\HomeWork_Task34.dll
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\bin\Debug\net6.0\HomeWork_Task34.pdb
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.dll
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\refint\HomeWork_Task34.dll
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.pdb
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\HomeWork_Task34.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GeekBrains Semirary\Первая четверть\Знакомство с языками программирования\Seminar 5\Languages_C#_Seminar_5\HomeWork_Task34\obj\Debug\net6.0\ref\HomeWork_Task34.dll
