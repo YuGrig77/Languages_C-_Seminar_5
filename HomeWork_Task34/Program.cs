@@ -37,8 +37,6 @@ int Compare(int[] array)
     {
         if (el % 2 == 0)
             count = count + 1;
-        else
-            count = count;
     }
     return count;
 }
