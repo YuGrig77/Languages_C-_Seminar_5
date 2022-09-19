@@ -14,7 +14,7 @@ int[] GetArray(int size, int minValue, int maxValue)
     int[] res = new int[size];
     for (int i = 0; i < size; i++)
     {
-        res[i] = new Random().Next(minValue, maxValue + 1); // +1 тк правая скобка не включает число
+        res[i] = new Random().Next(minValue, maxValue + 1); // +1 тк правая скобка не включает последнее число
         Console.Write($"{res[i]} ");
     }
     return res;
@@ -28,9 +28,9 @@ int negativeSum = 0;
 foreach (int el in array) // перебирает элементы массива(значения а не индексы) и смотрит значения
 {
     if (el > 0)
-    positiveSum += el;
+        positiveSum += el;
     else
-    negativeSum += el;
+        negativeSum += el;
 }
 Console.WriteLine();
 Console.WriteLine($"Сумма положительных чисел = {positiveSum}, Сумма отрицательных чисел = {negativeSum}");

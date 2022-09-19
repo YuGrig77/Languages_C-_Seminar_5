@@ -24,8 +24,8 @@ Console.Write("массив [");
 for (int i = 0; i < array.Length; i++)
 {
     if (i != array.Length - 1) Console.Write($"{array[i]}, ");
-        else Console.Write($"{array[i]}"); // \r\n
-    if (array[i] >9 && array[i]<100)
+    else Console.Write($"{array[i]}"); // \r\n
+    if (array[i] > 9 && array[i] < 100)
     {
         count++;
     }

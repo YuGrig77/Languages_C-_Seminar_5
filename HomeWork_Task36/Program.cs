@@ -7,7 +7,7 @@ Console.Clear();
 
 int[] GetArray(int size, int minValue, int maxValue)
 {
-    int[] present = new int [size];
+    int[] present = new int[size];
     for (int i = 0; i < size; i++)
     {
         present[i] = new Random().Next(minValue, maxValue);
@@ -22,9 +22,9 @@ int GetEllOnOddPos(int[] resGEOP)
     for (int i = 0; i < length; i++)
     {
         if (i % 2 != 0)
-        sum += resGEOP[i];
+            sum += resGEOP[i];
         else
-        sum = sum;
+            sum = sum;
     }
     return sum;
 }
